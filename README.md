@@ -1,5 +1,5 @@
 ```markdown
-# React Todo App 🚀
+# React Todo App 📝
 
 A simple and intuitive Todo application built with React and TypeScript.
 
@@ -8,11 +8,11 @@ A simple and intuitive Todo application built with React and TypeScript.
 *   **Add Tasks:** Easily add new tasks to your list.
 *   **Mark as Complete:** Toggle tasks as complete with a simple click.
 *   **Delete Tasks:** Remove tasks that are no longer needed.
-*   **Theme Support:** Toggle between light and dark themes.
-*   **Weather Widget:** Display current weather information.
+*   **Theme Support:** Toggle between light and dark themes. ☀️🌙
+*   **Weather Widget:** Display current weather information. 🌦️
 *   **Modern UI:** Built with Radix UI and Tailwind CSS for a sleek and accessible user interface.
 
-## 🛠️ Installation
+## 🚀 Installation
 
 ### Prerequisites
 
@@ -69,9 +69,9 @@ A simple and intuitive Todo application built with React and TypeScript.
     yarn dev
     ```
 
-    Open [https://localhost:3000](https://localhost:3000) with your browser to see the result.
+    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🌎 Homepage
+## 🌐 Homepage
 
 Visit the live demo at: [https://react-todo-app-five-lyart.vercel.app](https://react-todo-app-five-lyart.vercel.app)
 
@@ -83,7 +83,7 @@ Contributions are welcome! Here's how you can contribute:
 2.  Create a new branch for your feature or bug fix.
 3.  Make your changes and commit them with descriptive messages.
 4.  Push your changes to your fork.
-5.  Submit a pull request to the main branch of the original repository.
+5.  Submit a pull request to the `main` branch of the original repository.
 
 ## 🧑‍💻 Contributors
 
