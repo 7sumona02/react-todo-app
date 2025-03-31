@@ -1,4 +1,3 @@
-```markdown
 # React Todo App 📝
 
 A simple and intuitive Todo application built with React and TypeScript.
@@ -88,4 +87,3 @@ Contributions are welcome! Here's how you can contribute:
 ## 🧑‍💻 Contributors
 
 *   [7sumona02](https://github.com/7sumona02)
-```
