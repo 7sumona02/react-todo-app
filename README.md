@@ -14,7 +14,6 @@ A simple and intuitive Todo application built with React and TypeScript.
 ## 📸 Screenshots
 
 **Light Theme:**
-
 ![Light Theme Screenshot](<img width="1440" alt="Screenshot 2025-03-31 at 3 38 09 PM" src="https://github.com/user-attachments/assets/22a04ef6-006b-42f7-8568-50aaf113d40a" />)
 
 **Dark Theme:**
